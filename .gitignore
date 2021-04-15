@@ -1,0 +1,48 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+/target/
+
+.classpath
+.project
+.settings     
+ ##filter databfile、sln file##
+*.mdb  
+*.ldb  
+*.sln   
+##class file##
+*.com  
+*.class  
+*.dll  
+*.exe  
+*.o  
+*.so 
+# compression file
+*.7z  
+*.dmg  
+*.gz  
+*.iso  
+*.jar  
+*.rar  
+*.tar  
+*.zip  
+*.via
+*.tmp
+*.err
+# OS generated files #  
+.DS_Store  
+.DS_Store?  
+._*  
+.Spotlight-V100  
+.Trashes  
+Icon?  
+ehthumbs.db  
+Thumbs.db 
+————————————————
+版权声明：本文为CSDN博主「陌上桑花开花」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
+原文链接：https://blog.csdn.net/u014079773/article/details/51602344
